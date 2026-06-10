@@ -7,7 +7,7 @@ The goal is to practise consistently, build development fundamentals, and create
 ## Structure
 
 - `Responsive Web Design/` - HTML, CSS, modern layout, design, accessibility, responsive web development.
-- `certifications/` - Passing the Web Design Certificaqtion
+- `certifications/` - Passing the Web Design Certification
 - `portfolio-projects/` - Bigger projects worth polishing
 - `notes/` - My own learning notes
 
@@ -15,4 +15,4 @@ The goal is to practise consistently, build development fundamentals, and create
 
 | Date | Section | Topic | Status |
 |---|---|---|---|
-| 2026-06-07 | Responsive Web Design | HTML Basics | ✅ Complete |
+| 2026-06-07 | Responsive Web Design | HTML Basics | In-Progress |
