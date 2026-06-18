@@ -1,13 +1,28 @@
 # 2026-06-07 - Basic HTML
 
 ## Concepts practised
-- HTML document structure
+- HTML document structure & boilerplate
+- Elements & Attributes
+- Links
+- Lists
+- Audio & Video elements
+- Images & SVG
+- iFrames
 - Headings
 - Paragraphs
 - Basic page layout
+- Various other elements....
 
 ## What I built
-A simple HTML page to practise the basic structure of a webpage.
+Travel agency page
+Recipe page
+Audio & video player
+Video compilation page
+Debugging labs
+SVG heart icon
+Bookstore page
+Cat photo page
+Other labs and workshops...
 
 ## Reflection
-Today I started the freeCodeCamp Full Stack Developer path and practised the foundation of HTML.
+Firm grasp on all the basics of HTML via labs and workshop practice.
