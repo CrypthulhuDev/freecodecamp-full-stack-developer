@@ -17,3 +17,4 @@ The goal is to practise consistently, build development fundamentals, and create
 |---|---|---|---|
 | 2026-06-07 | Responsive Web Design | HTML Basics | Done |
 | 2026-06-18 | Responsive Web Design | Semantic HTML | In-Progress |
+| 2026-06-21 | Computers | Computer Basics | Done |
