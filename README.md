@@ -19,5 +19,5 @@ The goal is to practise consistently, build development fundamentals, and create
 | 2026-06-21 | Computers | Computer Basics | Done |
 | 2026-06-22 | Responsive Web Design | Semantic HTML | Done |
 | 2026-06-25 | Responsive Web Design | Forms & Tables | Done |
-| 2026-06-26 | Responsive Web Design | Certification Porject - Build a Survey Form | Done |
+| 2026-06-26 | Responsive Web Design | Certification Project - Build a Survey Form | Done |
 | 2026-06-27 | Responsive Web Design | Accessibility | In-Progress |
