@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id="title">Jurassic Research Park Visitor Survey
+    </h1>
+    <p id="description">
+    Please complete this short survey to help us improve the visitor experience, guided tours, food areas, and dinosaur exhibits.
+    </p>
+
+    <form id="survey-form">
+      <fieldset>
+        <legend>Contact Info</legend>
+
+        <label 
+        for="name" 
+        id="name-label">
+          Name
+        </label>
+        <input 
+        required
+        placeholder="John Doe"
+        type="text" 
+        id="name">
+
+        <br>
+
+        <label 
+        for="email" 
+        id="email-label">
+          Email
+        </label>
+        <input 
+        required
+        placeholder="john@email.com" 
+        type="email" 
+        id="email">
+
+        <br>
+
+        <label 
+        for="number" id="number-label">
+          Contact Number
+        </label>
+        <input
+          placeholder="082222222"
+          type="number" 
+          id="number"
+          style="width: 93px;"
+          min="10"
+          max="10">
+      </fieldset>
+
+      <fieldset>
+        <legend>
+          Attractions
+        </legend>
+
+      <label 
+        for="dropdown"
+        id="dorpdown-label">
+        Which area did you enjoy the most?
+      </label>
+
+      <br>
+
+      <select
+      id="dropdown">
+        <option>T-Rex Kingdom</option>
+        <option>Raptor Paddock</option>
+        <option selected>Triceratops Valley</option>
+        <option>Herbivore Safari</option>
+        <option>Fossil Discovery Centre</option>
+        <option>Visitor Centre</option>
+      </select>
+
+      <br>
+      <br>
+      <p>What would you like to see added to the park?
+      </p>
+
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="guided tours"
+        value="guided tours">
+      <label for="guided tours">
+        More guided tours
+      </label>
+
+      <br>
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="night safari"
+        value="night safari">
+      <label for="night safari">
+        Night safari experience
+      </label>
+
+      <br>
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="dinosaur nursery"
+        value="dinosaur nursery">
+      <label for="dinosaur nursery">
+        Baby dinosaur nursery
+      </label>
+
+      <br>
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="fossil digging"
+        value="fossil digging">
+      <label for="fossil digging">
+        Fossil digging activity
+      </label>
+
+      <br>
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="safety barriers"
+        value="safety barriers">
+      <label for="safety barriers">
+        More safety barriers
+      </label>
+
+      <br>
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="themed restaurant"
+        value="themed restaurant">
+      <label for="themed restaurant">
+        Dinosaur-themed restaurant
+      </label>
+
+      <br>
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="more giftshop"
+        value="more giftshop">
+      <label for="more giftshop">
+        More gift shop items
+      </label>
+
+      <br>
+      <input 
+        type="checkbox"
+        name="ideas"
+        id="science lab"
+        value="science lab">
+      <label for="science lab">
+        Interactive science lab
+      </label>
+
+      </fieldset>
+
+      <fieldset>
+        <legend>
+          Food
+        </legend>
+
+      <p>
+        Which food did you enjoy the most?
+      <p>
+
+      <input
+      type="radio"
+      name="food"
+      id="wrap"
+      value="wrap">
+      <label for="wrap">
+        Raptor Wrap
+      </label>
+      <br>
+      
+      <input
+      type="radio"
+      name="food"
+      id="burger"
+      value="burger">
+      <label for="burger">
+        T-Rex Burger
+      </label>
+      <br>
+
+      <input
+      type="radio"
+      name="food"
+      id="veggie bowl"
+      value="veggie bowl">
+      <label for="veggie bowl">
+        Triceratops Veggie Bowl
+      </label>
+      <br>
+
+      <input
+      type="radio"
+      name="food"
+      id="fries"
+      value="fries">
+      <label for="fries">
+        Fossil Fries
+      </label>
+      </fieldset>
+      
+      <fieldset>
+        <legend>Comments</legend>
+
+      <label 
+      for="comment" id="comment-label">
+      Tell us about your visit or suggest improvements.
+      </label>
+      <br>
+
+      <textarea 
+      id="comment">
+      </textarea>
+      <br>
+
+      <p>How would you rate your visit?</p>
+
+      <input
+      type="radio"
+      name="rating"
+      id="Excellent"
+      value="Excellent">
+      <label for="Excellent">
+        Excellent
+      </label>
+      <br>
+
+      <input
+      type="radio"
+      name="rating"
+      id="Good"
+      value="Good">
+      <label for="Good">
+        Good
+      </label>
+      <br>
+
+      <input
+      type="radio"
+      name="rating"
+      id="Average"
+      value="Average">
+      <label for="Average">
+        Average
+      </label>
+      <br>
+
+      <input
+      type="radio"
+      name="rating"
+      id="Poor"
+      value="poor">
+      <label for="Poor">
+        Poor
+      </label>
+      <br>
+
+      </fieldset>
+      <br>
+      
+      <button 
+      type="submit"
+      id="submit">
+        Submit
+      </button>
+
+      <button 
+      type="reset"
+      id="reset">
+        Reset
+      </button>
+
+    </form>
+  </body>
+</html>
