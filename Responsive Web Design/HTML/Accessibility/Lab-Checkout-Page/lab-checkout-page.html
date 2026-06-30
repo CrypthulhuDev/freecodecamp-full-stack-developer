@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>NeonCart Checkout</h1>
+    <P>Secure your gear before the city goes offline.</p>
+    <section>
+        <h2>Your Cart</h2>
+        <figure>
+            <img src="Laptop-console.jpg" alt="the item alt" width="300">
+            <figcaption>Console Interceptor Rx5000</figcaption>
+        </figure>
+    </section>
+    <section>
+        <h2>Payment Information</h2>
+        <form>
+            <fieldset>
+                <legend>Payment Details</legend>
+                <label for="card-name">Cardholder Name<span aria-hidden="true">*</span></label>
+                <input id="card-name" name="card-name" type="text" required>
+                <br>
+                <label for="card-number">Card Number<span aria-hidden="true">*</span></label>
+                <input id="card-number" name="card-number" type="text" required aria-describedby="card-number-help">
+                <p id="card-number-help">Use the standard 16-didgit format - no spaces or dashes.</p>
+                <label for="expiry-date">Expiry Date<span aria-hidden="true">*</span></label>
+                <input id="expiry-date" name="expiry-date" type="text" required aria-describedby="card-number-help">
+                <br>
+                <label for="cvv">CVV<span aria-hidden="true">*</span></label>
+                <input id="cvv" name="cvv" type="text" required>
+                <br>
+            </fieldset>
+            <button type="submit">Place Order</button>
+        </form>
+    </section>
+</body>
+
+</html>
