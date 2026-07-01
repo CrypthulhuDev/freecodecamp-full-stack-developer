@@ -11,13 +11,14 @@ The goal is to practise consistently, build development fundamentals, and create
 - `portfolio-projects/` - Bigger projects worth polishing
 - `notes/` - My own learning notes
 
-## Progress
+## Progress - Responsive Web Design
 
 | Date | Section | Topic | Status |
 |---|---|---|---|
-| 2026-06-07 | Responsive Web Design | HTML Basics | Done |
+| 2026-06-07 | HTML | HTML Basics | Done |
 | 2026-06-21 | Computers | Computer Basics | Done |
-| 2026-06-22 | Responsive Web Design | Semantic HTML | Done |
-| 2026-06-25 | Responsive Web Design | Forms & Tables | Done |
-| 2026-06-26 | Responsive Web Design | Certification Project - Build a Survey Form | Done |
-| 2026-06-27 | Responsive Web Design | Accessibility | In-Progress |
+| 2026-06-22 | HTML | Semantic HTML | Done |
+| 2026-06-25 | HTML | Forms & Tables | Done |
+| 2026-06-26 | HTML | Certification Project - Build a Survey Form | Done |
+| 2026-06-27 | HTML | Accessibility | Done |
+| 2026-07-01 | CSS | Basic CSS | In-Progress |
