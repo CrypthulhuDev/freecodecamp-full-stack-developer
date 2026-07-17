@@ -29,4 +29,4 @@ The goal is to practise consistently, build development fundamentals, and create
 | ---------- | ------- | ------------ | ----------- |
 | 2026-07-05 | Python  | Basic Python | Done        |
 | 2026-07-15 | Python  | Installation | Done |
-| 2026-07-15 | Python  | Loops & Sequences | In-Progress |
+| 2026-07-17 | Python  | Loops & Sequences | In-Progress |
