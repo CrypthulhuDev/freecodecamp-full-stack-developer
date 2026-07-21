@@ -1,0 +1,9 @@
+body {
+  background-color: #07110d;
+}
+.blog-post-card {
+  background-color: white;
+  border-radius: 30px;
+  width: 200px;
+  text-align: center;
+}
