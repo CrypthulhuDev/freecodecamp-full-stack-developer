@@ -21,7 +21,8 @@ The goal is to practise consistently, build development fundamentals, and create
 | 2026-06-25 | HTML      | Forms & Tables                              | Done        |
 | 2026-06-26 | HTML      | Certification Project - Build a Survey Form | Done        |
 | 2026-06-27 | HTML      | Accessibility                               | Done        |
-| 2026-07-01 | CSS       | Basic CSS                                   | In-Progress |
+| 2026-07-01 | CSS       | Basic CSS                                   | Done |
+| 2026-07-23 | CSS       | Design                                      | In-Progress |
 
 ## Progress - Python
 
